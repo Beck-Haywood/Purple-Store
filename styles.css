@@ -1,0 +1,12 @@
+body { 
+    background: url(background.jpeg);
+    background-size: 100% auto;
+    background-repeat: repeat-y;
+}
+.bottomleft {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+    color: purple;
+  }
